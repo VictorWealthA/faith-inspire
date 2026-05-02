@@ -1,0 +1,106 @@
+{
+  "quotes": [
+    {
+      "id": "1",
+      "text": "You are a success going somewhere to happen.",
+      "author": "Pastor Chris Oyakhilome",
+      "background": "#F5F7FA",
+      "tags": ["purpose", "identity", "confidence"]
+    },
+    {
+      "id": "2",
+      "text": "The Word of God is your sure foundation.",
+      "author": "Pastor Chris Oyakhilome",
+      "background": "#E0EAFC",
+      "tags": ["word", "stability", "faith"]
+    },
+    {
+      "id": "3",
+      "text": "You are the light of the world.",
+      "author": "Pastor Chris Oyakhilome",
+      "background": "#FCEABB",
+      "tags": ["identity", "impact", "mission"]
+    },
+    {
+      "id": "4",
+      "text": "Grace gives you boldness to live beyond fear.",
+      "background": "#F8F1FF",
+      "tags": ["grace", "courage", "peace"]
+    },
+    {
+      "id": "5",
+      "text": "Hope is strongest when your focus stays on Christ.",
+      "background": "#E7F6F2",
+      "tags": ["hope", "focus", "peace"]
+    }
+  ],
+  "affirmations": [
+    {
+      "id": "a1",
+      "text": "I am blessed and highly favored.",
+      "background": "#F5F7FA",
+      "tags": ["identity", "favor", "gratitude"]
+    },
+    {
+      "id": "a2",
+      "text": "I walk in divine health and prosperity.",
+      "background": "#E0EAFC",
+      "tags": ["health", "provision", "confidence"]
+    },
+    {
+      "id": "a3",
+      "text": "I am a light to my world.",
+      "background": "#FCEABB",
+      "tags": ["mission", "identity", "impact"]
+    },
+    {
+      "id": "a4",
+      "text": "I have wisdom for every decision before me today.",
+      "background": "#FFF4E6",
+      "tags": ["wisdom", "guidance", "focus"]
+    },
+    {
+      "id": "a5",
+      "text": "My heart is anchored in peace, not pressure.",
+      "background": "#EAF4FF",
+      "tags": ["peace", "rest", "trust"]
+    }
+  ],
+  "scriptures": [
+    {
+      "id": "s1",
+      "text": "I can do all things through Christ who strengthens me.",
+      "reference": "Philippians 4:13",
+      "background": "#F5F7FA",
+      "tags": ["strength", "confidence", "endurance"]
+    },
+    {
+      "id": "s2",
+      "text": "The Lord is my shepherd; I shall not want.",
+      "reference": "Psalm 23:1",
+      "background": "#E0EAFC",
+      "tags": ["provision", "peace", "trust"]
+    },
+    {
+      "id": "s3",
+      "text": "For God so loved the world that He gave His only begotten Son.",
+      "reference": "John 3:16",
+      "background": "#FCEABB",
+      "tags": ["love", "grace", "salvation"]
+    },
+    {
+      "id": "s4",
+      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+      "reference": "Proverbs 3:5",
+      "background": "#F1F7ED",
+      "tags": ["trust", "guidance", "wisdom"]
+    },
+    {
+      "id": "s5",
+      "text": "Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.",
+      "reference": "Joshua 1:9",
+      "background": "#FFF1F2",
+      "tags": ["courage", "strength", "presence"]
+    }
+  ]
+}
